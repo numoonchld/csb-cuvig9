@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://numoonchld.github.io/csb-cuvig9/static/css/main.f48a6a81.chunk.css",
+    "main.js": "https://numoonchld.github.io/csb-cuvig9/static/js/main.09dbd073.chunk.js",
+    "main.js.map": "https://numoonchld.github.io/csb-cuvig9/static/js/main.09dbd073.chunk.js.map",
+    "runtime-main.js": "https://numoonchld.github.io/csb-cuvig9/static/js/runtime-main.b29f39c3.js",
+    "runtime-main.js.map": "https://numoonchld.github.io/csb-cuvig9/static/js/runtime-main.b29f39c3.js.map",
+    "static/js/2.33f0bf01.chunk.js": "https://numoonchld.github.io/csb-cuvig9/static/js/2.33f0bf01.chunk.js",
+    "static/js/2.33f0bf01.chunk.js.map": "https://numoonchld.github.io/csb-cuvig9/static/js/2.33f0bf01.chunk.js.map",
+    "index.html": "https://numoonchld.github.io/csb-cuvig9/index.html",
+    "static/css/main.f48a6a81.chunk.css.map": "https://numoonchld.github.io/csb-cuvig9/static/css/main.f48a6a81.chunk.css.map",
+    "static/js/2.33f0bf01.chunk.js.LICENSE.txt": "https://numoonchld.github.io/csb-cuvig9/static/js/2.33f0bf01.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b29f39c3.js",
+    "static/js/2.33f0bf01.chunk.js",
+    "static/css/main.f48a6a81.chunk.css",
+    "static/js/main.09dbd073.chunk.js"
+  ]
+}
